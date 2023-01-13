@@ -56,4 +56,4 @@ We will use Bootstrap for mail design, don't worry, there is a tool to help you 
 <img src="img/7-min.jpg">
 <img src="img/8-min.jpg">
 
-## You can find an example of this project <a href="project.4lphasoftware.com/mail">here</a>.
+## You can find an example of this project <a href="https://project.4lphasoftware.com/mail">here</a>.
