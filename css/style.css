@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+body{
+    font-family: "Jost", sans-serif;
+    font-size: 16px;
+    background-color: #101010;
+    color: white;
+}
+input:focus{
+    border: 1px solid !important;
+}
+textarea:focus{
+    border: 1px solid !important;
+}
+.bg{
+    background-color: #101010 !important;
+}
+
+.header{
+    font-size: 55px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.hdr{
+    color: #ffb400;
+}
+.form input{
+    background-color: #101010;
+    border: 1px solid;
+}
+.form textarea{
+    border: 1px solid;
+}
+.alert{
+    font-weight:bold;
+}
+
