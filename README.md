@@ -11,14 +11,19 @@
  <img src="img/9-min.jpg">
  4. From this page, go to the "Sign in to Google" section.
  5. First, you need to turn on 2-Step Verification on your account.
+ 
  <img src="img/10-min.jpg">
  6. After opening it, now you need to create the app password.
+ 
  <img src="img/113-min.jpg">
  7. Here we are asked to choose the content of our application. (Choose the Other option)
+ 
  <img src="img/13-min.jpg">
  8. Now we enter the name of your application and proceed to the next step.
+ 
  <img src="img/14-min.jpg">
  9. The login password of our 16-character code application, which is located in the area with the orange background in the window that opens. (Keep this password, we will use it when the time comes) 
+
 <img src="img/15-min.jpg">
 
 ## Time to edit code
